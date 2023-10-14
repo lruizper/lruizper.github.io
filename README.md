@@ -49,15 +49,12 @@ responsive design for the larger screens
 - [ ] Include JavaScript to add some dynamic elements to your site. (Extra
 tricky!)
 ### Screenshots
-> screenshot of my wireframe on excalidraw is in the images folder
+> {{Wireframe v1}}
+![ {{ screenshot from excalidraw, which was developed before selecting colour palette }} ]( {{ images\readme_ss\Screenshot 2023-10-14 125922.png }} )
 
-> Please include the following:
-> - The different pages and features of your website on mobile, tablet and
-desktop screen sizes (multiple screenshots per page and screen size).
-> - The different features of your site, e.g. if you have hover states, take a
-screenshot that shows that.
->
-> You can do this by saving the images in a folder in your repo, and including
-them in your readme document with the following Markdown code:
+> {{Header with hover state on button}}
+![ {{ screenshot from web browser of live website showing the header and a style shadow on hover
+to the button Bio }} ]( {{ images\readme_ss\Screenshot 2023-10-14 124551.png}} )
+
 #### {{ image_title }}
 ![ {{ Description of image }} ]( {{ ./relative_path_to_file }} )
