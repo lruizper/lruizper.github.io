@@ -177,6 +177,8 @@ main section{ display: flex;
   }
 
 .project {margin: 20px;}
+.project p {margin: 10px;
+padding-left: 20px;}
   
 /* FOOTER */
 .footer-container { display: flex;
@@ -204,16 +206,16 @@ footer p {font-size: 0.7rem;}
     #projects {
       display: flex;
       flex-direction: row;
-      /* flex-wrap: wrap; */
-      /* align-items: baseline; */
+      flex-wrap: wrap;
+      justify-content: center;
+      /* align-items: center; */
     }
-    #projects article {
-    
-      width: 300px;
+    .project {
+        width: 42%;
+        /* margin: 15px; */
       /* height: 40vh; */
     }
-    
-    
+        
     .footer-container {
       flex-direction: row;
       justify-content: space-around;
