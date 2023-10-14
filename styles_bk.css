@@ -11,6 +11,7 @@ html {
 }
 *, *:before, *:after {
   box-sizing: inherit;
+  background-color: #dfe1df;
 }
 body, h1, h2, h3, h4, h5, h6, p, ol, ul {
   margin: 0;
@@ -202,6 +203,10 @@ footer p {font-size: 0.7rem;}
 @media (min-width: 800px){
     header{ 
       flex-direction: row;
+    }
+    .links-header{
+     justify-content: flex-end;
+      align-items: center;
     }
     #projects {
       display: flex;
