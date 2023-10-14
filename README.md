@@ -50,10 +50,10 @@ responsive design for the larger screens
 tricky!)
 ### Screenshots
 > {{Wireframe v1}}
-![ {{ screenshot from excalidraw, which was developed before selecting colour palette }} ]( {{ images\readme_ss\Screenshot 2023-10-14 125922.png }} )
+[ {{ screenshot from excalidraw, which was developed before selecting colour palette }} ]( {{ images\readme_ss\Screenshot 2023-10-14 125922.png }} )
 
 > {{Header with hover state on button}}
-![ {{ screenshot from web browser of live website showing the header and a style shadow on hover
+[ {{ screenshot from web browser of live website showing the header and a style shadow on hover
 to the button Bio }} ]( {{ images\readme_ss\Screenshot 2023-10-14 124551.png}} )
 
 #### {{ image_title }}
