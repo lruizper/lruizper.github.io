@@ -182,6 +182,7 @@ main section{ display: flex;
 padding-left: 20px;}
   
 /* FOOTER */
+footer * {background-color: var(--color6);}
 .footer-container { display: flex;
     flex-direction: column;
     align-items: center;
