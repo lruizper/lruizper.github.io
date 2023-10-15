@@ -1,60 +1,30 @@
-<!-- ###### -->
-link to your live website:
-
-<!-- ###### -->
-description of the different pages
-
-<!-- ###### -->
-features on mobile, tablet, desktop
-showing screenshots 
-
-<!-- ###### -->
-description of technical features i.e hover states
-
-# {{ Dr. Lanie Ruiz-Perez}} - Portfolio Task
+# Dr. Lanie Ruiz-Perez
+## Portfolio Assigment | HTML and CSS
+#### 15th Oct 2023
+#### She Codes cohort 2023
 [My portfolio site] ( https://lruizper.github.io/ )
 ## Project Requirements
 ### Content
-My page contains a (very old) profile pic which I'm hoping to replace
-when we get the one taken for the She Codes cohort next week ;)
-Most of the content is taken from LinkedIn bio and some GPT sentences.
-I made the little logo.png very quickly on draw.io because I found canva a bit overwhelming
-I downloaded the little logos of external pages and put them in the footer
-There is display flex being applied to the header, footer and the portfolio section of the main page which are responsive to the one media query in my CSS.
-In the header I have hyperlikns styled as buttons with hover action. The 'Bio' button takes you to the second page (under construction) and the logo refers to the main page. The 'Porfolio' button refers to the portfolio section, and the same with the 'contact' button.
-The second page is not very populated yet but it displays the same header and footer and a Heading 1 with 
-a little notice saying more content is comming
-The contact form is functional in that it sends an email to my personal gmail without it being filtered by spam filters.
-The porfolio section has five 'projects' which appear on orientation colum on mobile and in row by pairs when on larger displays, due to the media query.
-- [ ] At least one profile picture
-- [ ] Biography (at least 100 words)
-- [ ] Functional Contact Form
-- [ ] "Projects" section
-- [ ] Links to external sites, e.g. GitHub and LinkedIn.
+- [ ] Profile Picture: I currently have a temporary profile picture, which will be updated soon with a new one from the She Codes cohort.
+- [ ] Biography: The content of my portfolio is derived from my LinkedIn bio and supplemented with some information generated using GPT.
+- [ ] Logo: I created a simple logo using draw.io, as I found Canva a bit overwhelming. It's a work in progress.
+- [ ] External Links: I've included logos of external pages (e.g., GitHub and LinkedIn) in the footer section.
+- [ ] Responsive Design: I've applied responsive design principles using CSS Flexbox. The header, footer, and portfolio section adapt to different screen sizes, thanks to a media query in my CSS.
+- [ ] Navigation: In the header, I've styled hyperlinks as buttons with hover effects. The 'Bio' button leads to a second page (currently under construction), and the logo links back to the main page. Similarly, the 'Portfolio' and 'Contact' buttons direct users to their respective sections.
+- [ ] Second Page: The second page is a work in progress, featuring the same header and footer. It currently displays a heading indicating that more content is coming soon.
+- [ ] Contact Form: The contact form is fully functional and sends emails to my personal Gmail account without being caught in spam filters.
+- [ ] Portfolio Section: The portfolio section showcases five projects. On mobile devices, they appear in a vertical orientation, while on larger displays, they are displayed in rows of pairs, thanks to the media query.
 ### Technical
-{{ Add a short paragraph describing the features below. }}
-I have two web pages: the main and the Bio (currently empty)
-Currently using my ubuntu CLI to interact with the local and remote repos
-The page is deployed as per instructions on git hub pages
-The page was developed on mobile sized screens first and the the media query takes care of 
-responsive design for the larger screens
-- [ ] At least 2 web pages.
-- [ ] Version controlled with Git
-- [ ] Deployed on GitHub pages.
-- [ ] Implements responsive design principles.
-- [ ] Uses semantic HTML.
+- [ ] Web Pages: I've created two web pages - the main page and a bio page (currently under construction).
+- [ ] Version Control: I'm using Git for version control. This allows me to track changes, collaborate with others, and manage my project effectively.
+- [ ] Deployment: The webpage is deployed on GitHub Pages, following the provided instructions. This makes it accessible to anyone with an internet connection.
+- [ ] Responsive Design: I've prioritized mobile-first development. The page layout and styling are designed for smaller screens, and a media query is implemented to ensure responsiveness on larger screens. This approach ensures a consistent user experience across various devices.
+- [ ] Semantic HTML: I've used semantic HTML elements to structure the content.
 ### Bonus (optional)
-{{ Add a short paragraph describing the features below, if you included any. }}
-- [ ] Different styles for active, hover and focus states.
-- [ ] Include JavaScript to add some dynamic elements to your site. (Extra
-tricky!)
+- [ ] When users hover over the navigation links in the header (styled as buttons), they experience a visual change, providing feedback that the links are interactive. 
 ### Screenshots
-> {{Wireframe v1}}
-[ {{ screenshot from excalidraw, which was developed before selecting colour palette }} ]( {{ images\readme_ss\Screenshot 2023-10-14 125922.png }} )
 
-> {{Header with hover state on button}}
-[ {{ screenshot from web browser of live website showing the header and a style shadow on hover
-to the button Bio }} ]( {{ images\readme_ss\Screenshot 2023-10-14 124551.png}} )
-
-#### {{ image_title }}
-![ {{ Description of image }} ]( {{ ./relative_path_to_file }} )
+####  Wireframe v1
+Screenshot from excalidraw, which was developed before selecting colour palette  {{ images/readme_ss/Screenshot 2023-10-14 125922.png }}
+####  Header with hover state on button
+Screenshot from web browser of live website showing the header and a style shadow on hover to the button Bio {{ images/readme_ss/Screenshot 2023-10-14 124551.png}}
